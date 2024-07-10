@@ -1,9 +1,9 @@
 # VitrineJordanShoes
-Resultado do desafio 02 da comunidade Codelandia.
+Vitrine simulando uma loja de tênis Jordan, seguindo o desafio 02 da comunidade Codelandia.
 
 ### 💡 Ideia:
 
-A ideia desse projeto é reproduzir o layout desenvolvido pelo Iuri Silva, no caso uma vitrine de tênis Jordans.
+A ideia desse projeto é reproduzir o layout desenvolvido pelo Iuri Silva, no caso uma vitrine de tênis Jordan, utilizando conhecimentos de desenvolvimento FrontEnd para chegar ao resultado mais próximo possivel do design apresentado no modelo do desafio.
 
 ### 🧰 Tecnologias Utilizadas:
 
